@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FelipeBorges99
-- 👀 I’m interested in Data Science and learning
+- 👀 I’m interested in Data Science and Data Engineering
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking to collaborate on new open source projects
 - 📫 How to reach me felipebm@outlook.com.br 
 
 <!---
